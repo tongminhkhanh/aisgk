@@ -1,0 +1,5 @@
+{
+  "name": "Công cụ AI Tạo Câu hỏi SGK",
+  "description": "Một hệ thống hỗ trợ giáo viên tự động hóa nhiều nghiệp vụ trong dạy học theo hướng nhanh – chính xác – cá nhân hóa, sử dụng Gemini AI. Công cụ cho phép tạo câu hỏi từ sách giáo khoa, nhận xét sản phẩm học sinh, đưa ra nhận xét thường xuyên và định kỳ.",
+  "requestFramePermissions": []
+}
